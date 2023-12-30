@@ -15,7 +15,7 @@ Este jogo foi desenvolvido como parte de um projeto educacional na Digital Innov
 ## JS Memory Game
 Welcome! This repository contains a simple game that was developed as part of a course project at Digital Innovation One. I followed the instructions and also made some personal modifications. The goal was to solidify essential JavaScript knowledge.
 
-## Changes Made
+## Changes
 - Expanded the variety of emojis in the game, increasing the difficulty.
 - Created a gradient background image using Canva and added it to the project, differing from the original style shown in the course.
 
